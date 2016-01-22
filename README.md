@@ -1,4 +1,4 @@
-My Awesome Book
+transformaps manual
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+In continuation of the TransforMap community effort, this manual aims at condensing the diverse experiences gained with following this endeavour.
